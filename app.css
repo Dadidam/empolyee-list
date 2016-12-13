@@ -1,0 +1,12 @@
+.list, .editor {
+	float: left;
+}
+
+.list {
+	width: 450px;
+}
+
+.editor {
+	background-color: #eee;
+	width: 300px;
+}
